@@ -1,3 +1,6 @@
+CRICSHARELATEX
+a repository for a Research project. Taken from ShareLatex's github repo: https://github.com/sharelatex/sharelatex
+
 ShareLaTeX
 ==========
 
