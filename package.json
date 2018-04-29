@@ -1,5 +1,5 @@
 {
-  "name": "sharelatex",
+  "name": "cricsharelatex",
   "version": "0.0.1",
   "description": "An online collaborative LaTeX editor",
   "dependencies": {
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "grunt": "~0.4.2",
-    "bunyan": "^1.8.12",
+    "bunyan": "~0.22.1",
     "grunt-bunyan": "~0.5.0",
     "grunt-execute": "~0.1.5",
     "grunt-available-tasks": "~0.4.1",
