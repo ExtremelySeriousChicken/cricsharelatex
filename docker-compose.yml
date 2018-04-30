@@ -2,7 +2,7 @@ version: '2'
 services:
     sharelatex:
         restart: always
-        image: wijayaresearch/cricsharelatex:v1.0.2
+        image: wijayaresearch/cricsharelatex:latest
         container_name: sharelatex
         depends_on:
             - mongo
